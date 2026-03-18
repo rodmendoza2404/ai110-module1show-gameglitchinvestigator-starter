@@ -32,6 +32,9 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📸 Demo
 
 - [ ] Insert screenshot: fixed winning game state (streamlit app running with correct hint behavior)
+- [ ]
+- [ ] <img width="948" height="644" alt="image" src="https://github.com/user-attachments/assets/36ae6010-2f5f-4046-9943-5f7a054a5f2d" />
+
 
 ## 🚀 Stretch Features
 
