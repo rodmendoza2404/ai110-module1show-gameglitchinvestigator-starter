@@ -25,13 +25,13 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- Purpose: This project is a Streamlit number guessing game used to practice debugging AI-generated code, refactoring logic into reusable modules, and validating repairs with pytest.
+- Bugs found: Reversed high/low hints, difficulty/reset range mismatch, off-by-one attempt tracking behavior, and type-mixing during guess comparison.
+- Fixes applied: Moved core functions into logic_utils.py, corrected hint direction and numeric comparison flow, aligned reset behavior with selected difficulty, cleaned attempt/state updates, and added targeted regression tests.
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- [ ] Insert screenshot: fixed winning game state (streamlit app running with correct hint behavior)
 
 ## 🚀 Stretch Features
 
